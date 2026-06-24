@@ -18,7 +18,7 @@ Professional with over 20 years of experience in the customs sector, now transit
 * **Project Description:** A comprehensive testing project for a demo web store(*https://intern.demoshopping.ru/*). The goal was to apply various testing techniques and document the entire process across both frontend and backend layers.
 * **What I did:**
   * 🔍 **Manual & Functional Testing:**
-    * Analyzed and decomposed *[requirements]*(https://docs.google.com/spreadsheets/d/1Dorv6YbRV3Mbj2DtB6i0eFcBlvKHBtb2idezUbnxF60/edit?gid=1344393678#gid=1344393678).
+    * Analyzed and decomposed [*requirements*](https://docs.google.com/spreadsheets/d/1Dorv6YbRV3Mbj2DtB6i0eFcBlvKHBtb2idezUbnxF60/edit?gid=1344393678#gid=1344393678).
     * Applied test design techniques: *Equivalence Partitioning, Boundary Value Analysis, Decision Table*.
     * Created test documentation: *Checklists, Test Cases* for Registration, Authorization, and Catalog modules.
     * Performed exploratory testing and documented bug reports.
