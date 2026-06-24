@@ -20,7 +20,7 @@ Professional with over 20 years of experience in the customs sector, now transit
   * 🔍 **Manual & Functional Testing:**
     * Analyzed and decomposed [*requirements*](https://docs.google.com/spreadsheets/d/1Dorv6YbRV3Mbj2DtB6i0eFcBlvKHBtb2idezUbnxF60/edit?gid=1344393678#gid=1344393678).
     * Applied test design techniques: *Equivalence Partitioning, Boundary Value Analysis, Decision Table*.
-    * Created test documentation: [Checklists](https://docs.google.com/spreadsheets/d/1y__MRmhLwOMxC0x4kst1Iecf9PEEzYOl7mmOF6CJmyE/edit?gid=0#gid=0);requirements-based Test Cases for Registration, Authorization, Catalog modules and Bug reports
+    * Created test documentation: [Checklists](https://docs.google.com/spreadsheets/d/1y__MRmhLwOMxC0x4kst1Iecf9PEEzYOl7mmOF6CJmyE/edit?gid=0#gid=0);requirements-based Test Cases*for Registration, Authorization, Catalog modules and Bug reports
     * Performed exploratory testing and documented bug reports.
   * ⚙️ **API Testing:**
     * Tested REST API endpoints (authentication, product catalog, user management).
