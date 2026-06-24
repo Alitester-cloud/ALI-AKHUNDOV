@@ -8,7 +8,7 @@ Professional with over 20 years of experience in the customs sector, now transit
 ## 📜 Courses & Qualifications
 
 * 🎓 **Software Quality Assurance & SDET Training**
-* 📜 **Postman API Testing Automation** — Rahul Shetty (Udemy)
+* 📜 **Postman API Testing Automation** — [*Rahul Shetty*] (Udemy)
 
 ---
 
