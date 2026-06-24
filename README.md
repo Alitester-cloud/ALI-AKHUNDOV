@@ -1,4 +1,4 @@
-# A# 👋 Hi, I'm Ali Axundov
+#  👋 Hi, I'm Ali Axundov
 
 🚀 **About Me**
 Professional with over 20 years of experience in the customs sector, now transitiong and sharpening my skills as a Software Quality Assurance (QA) Engineer. Passionate about ensuring software quality through rigorous manual testing, API testing, and automation frameworks. Currently focusing on mastering test automation with **JavaScript and Playwright**.
