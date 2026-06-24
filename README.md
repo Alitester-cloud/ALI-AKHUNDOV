@@ -15,7 +15,7 @@ Professional with over 20 years of experience in the customs sector, now transit
 ## 💻 Projects & Practice
 
 ### 🛒 1. [Demo Webshop Testing Project](*)
-* **Project Description:** A comprehensive testing project for a demo web store. The goal was to apply various testing techniques and document the entire process across both frontend and backend layers.
+* **Project Description:** A comprehensive testing project for a demo web store(*https://intern.demoshopping.ru/*). The goal was to apply various testing techniques and document the entire process across both frontend and backend layers.
 * **What I did:**
   * 🔍 **Manual & Functional Testing:**
     * Analyzed and decomposed requirements.
