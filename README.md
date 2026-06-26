@@ -20,7 +20,7 @@ Professional with over 20 years of experience in the customs sector, now transit
   * 🔍 **Manual & Functional Testing:**
     * Analyzed and decomposed [*requirements*](https://docs.google.com/spreadsheets/d/1Dorv6YbRV3Mbj2DtB6i0eFcBlvKHBtb2idezUbnxF60/edit?gid=1344393678#gid=1344393678).
     * Applied test design techniques: [Equivalence Partitioning and Boundary Value Analysis](https://docs.google.com/spreadsheets/d/122FyFga8OH20zTH9Ju5YkvLVd2vPx7D4/edit?gid=662212411#gid=662212411), Decision Table, Pairwise Testing
-    * Created test documentation: [Checklists](https://docs.google.com/spreadsheets/d/1y__MRmhLwOMxC0x4kst1Iecf9PEEzYOl7mmOF6CJmyE/edit?gid=0#gid=0);requirements-based Test Cases for [Registration](file:///C:/Users/axund/Downloads/Registration%20Sute.pdf), Authorization, Catalog modules and Bug reports
+    * Created test documentation: [Checklists](https://docs.google.com/spreadsheets/d/1y__MRmhLwOMxC0x4kst1Iecf9PEEzYOl7mmOF6CJmyE/edit?gid=0#gid=0); requirements-based Test Cases for [Registration](https://onedrive.live.com/?q=registration&searchScope=folder&id=%2Fpersonal%2Fbcb319f431415f1a%2FDocuments%2FRegistration%20Sute%2Epdf&parent=%2Fpersonal%2Fbcb319f431415f1a%2FDocuments&parentview=7), Authorization, Catalog modules and Bug reports
     * Performed exploratory testing and documented bug reports.
   * ⚙️ **API Testing:**
     * Tested REST API endpoints (authentication, product catalog, user management).
